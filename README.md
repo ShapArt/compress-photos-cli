@@ -185,5 +185,3 @@ python compress_photos.py ./input --overwrite --suffix ""
 
 
 *Заполнить по мере развития проекта.*
-
-
