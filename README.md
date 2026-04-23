@@ -7,33 +7,18 @@
 [![License](https://img.shields.io/github/license/ShapArt/=for-the-badge)](https://github.com/ShapArt/compress-photos-cli/blob/main/LICENSE)
 
 ## RU
-**Слоган:** Фото легче, качество выше
+CLI для пакетной оптимизации фото в подходе Product Engineer: качество, скорость и стабильный результат.
 
-CLI для пакетной оптимизации фотографий с настройками под реальные production-задачи.
-
-### Что даёт проект
-- Быстрый запуск и понятный вход в задачу.
-- Практичный сценарий использования, а не «игрушечный» демо-кейс.
-- Поддерживаемая структура для роста и автоматизации.
-
-### Быстрый старт
-- Открой README/структуру проекта.
-- Запусти команды из текущего репозитория.
-- Используй шаблоны в .github/ для стандартизированного вклада.
-
-### Для кого
-- Инженеры, которым важен результат, а не шум.
-- Команды, ценящие скорость внедрения и качество кода.
+### Baseline
+- Product Engineer: backend и automation-системы, которые дают измеримый бизнес-результат.
+- Приоритет: ценность для клиента, скорость внедрения, надёжность эксплуатации.
 
 ## EN
-**Tagline:** Фото легче, качество выше
+Batch photo optimization CLI in a Product Engineer approach: quality, speed, and reliable output.
 
-CLI for batch photo optimization with production-friendly quality controls.
-
-### Value proposition
-- Fast onboarding and clear project intent.
-- Production-minded structure for scaling and automation.
-- Consistent contribution and quality standards.
+### Baseline
+- Product Engineer building backend and automation systems with measurable product impact.
+- Priority: client value, delivery speed, and operational reliability.
 
 ## Contribution
 See .github/CONTRIBUTING.md.
