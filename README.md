@@ -2,10 +2,9 @@
 
 ![Social Preview](https://raw.githubusercontent.com/ShapArt/compress-photos-cli/main/.github/social-preview.png)
 
-
-[![Stars](https://img.shields.io/github/stars/ShapArt/=for-the-badge)](https://github.com/ShapArt/compress-photos-cli/stargazers)
-[![Last Commit](https://img.shields.io/github/last-commit/ShapArt/=for-the-badge)](https://github.com/ShapArt/compress-photos-cli/commits/main)
-[![License](https://img.shields.io/github/license/ShapArt/=for-the-badge)](https://github.com/ShapArt/compress-photos-cli/blob/main/LICENSE)
+[![Stars](https://img.shields.io/github/stars/ShapArt/compress-photos-cli?style=for-the-badge)](https://github.com/ShapArt/compress-photos-cli/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/ShapArt/compress-photos-cli?style=for-the-badge)](https://github.com/ShapArt/compress-photos-cli/commits/main)
+[![License](https://img.shields.io/github/license/ShapArt/compress-photos-cli?style=for-the-badge)](https://github.com/ShapArt/compress-photos-cli/blob/main/LICENSE)
 
 ## EN
 Batch photo compression CLI with quality presets and metadata handling.
@@ -40,6 +39,9 @@ See .github/CONTRIBUTING.md and open a focused PR.
 
 ## License / Лицензия
 See LICENSE.
+
+
+
 
 
 
