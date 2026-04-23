@@ -1,187 +1,54 @@
-﻿# 🗜️ compress-photos-cli
+# compress-photos-cli
 
-[![CI](https://github.com/ShapArt/compress-photos-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/ShapArt/compress-photos-cli/actions/workflows/ci.yml) [![license](https://img.shields.io/github/license/ShapArt/compress-photos-cli)](https://github.com/ShapArt/compress-photos-cli/blob/main/LICENSE)
+![License](https://img.shields.io/github/license/ShapArt/compress-photos-cli)
+![Last Commit](https://img.shields.io/github/last-commit/ShapArt/compress-photos-cli)
+![Language](https://img.shields.io/github/languages/top/ShapArt/compress-photos-cli)
 
+## EN Overview
+Batch photo compressor: presets, EXIF/ICC, parallelism
 
+## RU Описание
+Batch photo compressor: presets, EXIF/ICC, parallelism
 
+## EN Features
+- Clear project purpose and maintainable structure.
+- Standardized community and contribution files.
+- Consistent documentation style across account repositories.
 
+## RU Возможности
+- Понятная цель проекта и поддерживаемая структура.
+- Стандартизированные файлы сообщества и вклада.
+- Единый стиль документации во всех репозиториях аккаунта.
 
+## EN Quick Start
+pip install -r requirements.txt
+python -m main
 
-**Ключевые факты:**
+## RU Быстрый старт
+pip install -r requirements.txt
+python -m main
 
+## EN Project Structure
+- .github/ - templates, policy files, CI config.
+- Source files and assets are stored in repository root or feature directories.
 
-- 🗜️ Массовое сжатие, сохранение EXIF/ICC
+## RU Структура проекта
+- .github/ - шаблоны, policy-файлы, конфиг CI.
+- Исходники и ресурсы находятся в корне или профильных директориях.
 
+## EN Roadmap
+- Improve test coverage and automation.
+- Keep docs aligned with actual project behavior.
 
-- 🔄 HEIC→JPEG, указание максимально допустимой стороны
+## RU Планы
+- Расширять покрытие тестами и автоматизацией.
+- Поддерживать документацию в актуальном состоянии.
 
+## EN Contributing
+See .github/CONTRIBUTING.md.
 
-- ⚙️ Параллельная обработка
+## RU Вклад
+См. .github/CONTRIBUTING.md.
 
-
-
-
-
-
-
-
-<table>
-
-
-<tr>
-
-
-<td><b>✨ Что умеет</b><br/>Короткий список возможностей, ориентированных на ценность.</td>
-
-
-<td><b>🧠 Технологии</b><br/>Стек, ключевые решения, нюансы безопасности.</td>
-
-
-<td><b>🖼️ Демо</b><br/>Скриншот/гиф или ссылка на Pages.</td>
-
-
-</tr>
-
-
-</table>
-
-
-
-
-
-> [!TIP]
-
-
-> Репозиторий оформлен по правилам: Conventional Commits, SemVer, CHANGELOG, SECURITY policy и CI.
-
-
-> Секреты — только через `.env`/секреты репозитория.
-
-
-
-
-
-
-
-
-<p align="left">
-
-
-  <img alt="build" src="https://img.shields.io/github/actions/workflow/status/ShapArt/compress-photos-cli/ci.yml?label=CI&logo=githubactions">
-
-
-  <img alt="license" src="https://img.shields.io/github/license/ShapArt/compress-photos-cli">
-
-
-  <img alt="last commit" src="https://img.shields.io/github/last-commit/ShapArt/compress-photos-cli">
-
-
-  <img alt="issues" src="https://img.shields.io/github/issues/ShapArt/compress-photos-cli">
-
-
-  <img alt="stars" src="https://img.shields.io/github/stars/ShapArt/compress-photos-cli?style=social">
-
-
-</p>
-
-
-
-
-
-
-
-
-Рекурсивное сжатие фото с EXIF/ICC, конвертацией HEIC → JPEG и ограничением длинной стороны.
-
-
-
-
-
-## Примеры
-
-
-```bash
-
-
-python compress_photos.py ./input --max-size 2560 --quality 84 --workers 8
-
-
-python compress_photos.py ./input --out ./output_min --convert-to-jpeg --max-size 3000
-
-
-python compress_photos.py ./input --overwrite --suffix ""
-
-
-```
-
-
-
-
-
-## Быстрый старт
-
-
-
-
-
-*Заполнить по мере развития проекта.*
-
-
-
-
-
-
-
-
-## Архитектура
-
-
-
-
-
-*Заполнить по мере развития проекта.*
-
-
-
-
-
-
-
-
-## Конфигурация
-
-
-
-
-
-*Заполнить по мере развития проекта.*
-
-
-
-
-
-
-
-
-## Тесты
-
-
-
-
-
-*Заполнить по мере развития проекта.*
-
-
-
-
-
-
-
-
-## Roadmap
-
-
-
-
-
-*Заполнить по мере развития проекта.*
+## License / Лицензия
+See LICENSE.
